@@ -1,16 +1,3 @@
 # shop_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter E-Commerce UI Application can be used for e-commerce applications on android and ios devices. It contains 10 Screens with a different user interface, E-Commerce UI App can save a lot of time to code the whole Front-end layout. It is easy to attach to your rear end. Thus, your mobile application will be ready with just an API connection!
