@@ -14,7 +14,8 @@ The provider package is an easy to use package which is basically a wrapper arou
 
 # Screenshots 
 
-![Screenshot_20230104_013021_com example shop_app](https://user-images.githubusercontent.com/118610336/210651396-6ced6436-92c6-418c-b825-6eaf17e605a3.jpg)![Screenshot_20230104_013026_com example shop_app](https://user-images.githubusercontent.com/118610336/210651401-d453cf49-f1a8-410d-9036-2ec2811a05f3.jpg)
+![Screenshot_20230104_013021_com example shop_app](https://user-images.githubusercontent.com/118610336/210651396-6ced6436-92c6-418c-b825-6eaf17e605a3.jpg)
+![Screenshot_20230104_013026_com example shop_app](https://user-images.githubusercontent.com/118610336/210651401-d453cf49-f1a8-410d-9036-2ec2811a05f3.jpg)
 ![Screenshot_20230104_013029_com example shop_app](https://user-images.githubusercontent.com/118610336/210651403-8f94116b-8a47-4bbc-906d-1994e51d7e83.jpg)
 ![Screenshot_20230104_013031_com example shop_app](https://user-images.githubusercontent.com/118610336/210651405-7f293e6a-cf0b-4c54-bb88-c4ed1db17bcf.jpg)
 ![Screenshot_20230104_013055_com example shop_app](https://user-images.githubusercontent.com/118610336/210651408-2612a22c-126e-49f7-b4e0-90a98e34faac.jpg)
